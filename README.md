@@ -1,2 +1,2 @@
-# NeuronPlusPlus
-A small C++ library/project to do some machine learning
+# Neuron
+A small python library/project to do some hands-on machine learning
